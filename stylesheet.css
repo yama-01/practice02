@@ -23,7 +23,7 @@ a {
   padding:0 15px;
 }
 .top-wrapper{
-  background-color: img(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(top.png);
   background-size: cover;
   padding-top: 180px;
   padding-bottom: 100px;
