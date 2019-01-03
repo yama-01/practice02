@@ -145,3 +145,12 @@ header{
   box-shadow: none;
 }
 
+footer{
+  padding: 30px 0;
+  border-top: solid #eee;
+}
+footer img{
+  width:124px;
+}
+
+
