@@ -6,5 +6,20 @@
   .header-right{
     display: none;
   }
-  .display:block;
+  .menu-icon{
+    display:block;
+  }
+
+  .top-wrapper h1{
+    font-size: 24px;
+  }
+  .top-wrapper{
+    text-align: left;
+  }
+  .top-wrapper p{
+    font-size: 14px;
+  }
+  .facebook{
+    margin-bottom: 10px;
+  }
 }
